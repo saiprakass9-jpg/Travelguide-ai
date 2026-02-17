@@ -1,0 +1,7 @@
+{
+  "name": "TravelGuideAI",
+  "description": "An AI-powered travel assistant for personalized itineraries, agency management, and dynamic content creation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
